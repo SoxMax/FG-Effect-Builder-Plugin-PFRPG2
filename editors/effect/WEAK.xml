@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+    <windowclass name="effect_WEAK">
+        <script file="editors/effect/scripts/WEAK.lua" />
+		<margins control="0,0,0,2" />
+        <sheetdata>
+            <leftanchor_eb />
+
+            <combobox_eb_damage_type />
+        </sheetdata>
+    </windowclass>
+    <script name="loader_WEAK">
+        function onInit()
+            EditorManager.addEditor(
+                "category_susceptibility",
+                {
+                    value="WEAK",
+                    labelres="effect_weak",
+                    windowclass="effect_WEAK"
+                }
+            )
+        end
+    </script>
+</root>
