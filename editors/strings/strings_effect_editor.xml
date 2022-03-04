@@ -10,6 +10,7 @@
     <string name="effect_cmb">Combat Maneuver Bonus (CMB)</string>
     <string name="effect_dmg">Damage</string>
     <string name="effect_dmgo">Damage per Turn</string>
+    <string name="effect_pers">Persistent Damage</string>
     <string name="effect_dmgtype">Damage Type</string>
     <string name="effect_cc">Critical Confirmation</string>
 
@@ -31,22 +32,24 @@
     <string name="effect_regen">Regeneration</string>
     
     <string name="category_spell">Spells</string>
-    <string name="effect_clc">Caster Level Check</string>
+    <string name="effect_dc">Difficulty Check (DC)</string>
     <string name="effect_dmgs">Spell Damage</string>
     <string name="effect_dmgstype">Spell Damage Type</string>
+    <string name="effect_spellroll">Spell Attack</string>
     
     <string name="category_misc">Miscellaneous</string>
     <string name="effect_init">Initiative</string>
+    <string name="effect_perc">Perception</string>
+    <string name="effect_prof">Proficiency</string>
     <string name="effect_skill">Skill</string>
-    <string name="effect_nlvl">Negative Level</string>
     <string name="effect_speed">Speed</string>
     
     <string name="category_situational">Situational</string>
     <string name="effect_conc">Concealment</string>
-    <string name="effect_tconc">Total Concealment</string>
-    <string name="effect_pcover">Partial Cover</string>
+    <string name="effect_hidden">Hidden</string>
+    <string name="effect_lcover">Lesser Cover</string>
     <string name="effect_cover">Cover</string>
-    <string name="effect_scover">Superior Cover</string>
+    <string name="effect_gcover">Greater Cover</string>
     
     <string name="category_conditional">Conditionals</string>
     <string name="if">If Self</string>

@@ -23,16 +23,16 @@
             EditorManager.addEditor(
                 "category_situational",
                 {
-                    value="TCONC",
-                    labelres="effect_tconc",
+                    value="HIDDEN",
+                    labelres="effect_hidden",
                     windowclass="effect_SITUATION"
                 }
             )
             EditorManager.addEditor(
                 "category_situational",
                 {
-                    value="PCOVER",
-                    labelres="effect_pcover",
+                    value="LCOVER",
+                    labelres="effect_lcover",
                     windowclass="effect_SITUATION"
                 }
             )
@@ -47,8 +47,8 @@
             EditorManager.addEditor(
                 "category_situational",
                 {
-                    value="SCOVER",
-                    labelres="effect_scover",
+                    value="GCOVER",
+                    labelres="effect_gcover",
                     windowclass="effect_SITUATION"
                 }
             )

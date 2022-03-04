@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 
 <root>
-    <windowclass name="effect_INIT">
-        <script file="editors/effect/scripts/INIT.lua" />
+    <windowclass name="effect_PERC">
+        <script file="editors/effect/scripts/PERC.lua" />
 		<margins control="0,0,0,2" />
         <sheetdata>
             <leftanchor_eb />
@@ -16,14 +16,14 @@
             </combobox_eb_bonus_type>
         </sheetdata>
     </windowclass>
-    <script name="loader_INIT">
+    <script name="loader_PERC">
         function onInit()
             EditorManager.addEditor(
                 "category_misc",
                 {
-                    value="INIT",
-                    labelres="effect_init",
-                    windowclass="effect_INIT"
+                    value="PERC",
+                    labelres="effect_perc",
+                    windowclass="effect_PERC"
                 }
             )
         end

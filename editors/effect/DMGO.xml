@@ -22,6 +22,14 @@
                     windowclass="effect_DMGO"
                 }
             )
+            EditorManager.addEditor(
+                "category_misc",
+                {
+                    value="PERS",
+                    labelres="effect_pers",
+                    windowclass="effect_DMGO"
+                }
+            )
         end
     </script>
 </root>
