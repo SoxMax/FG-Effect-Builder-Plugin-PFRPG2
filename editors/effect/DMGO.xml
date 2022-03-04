@@ -15,7 +15,7 @@
     <script name="loader_DMGO">
         function onInit()
             EditorManager.addEditor(
-                "category_misc",
+                "category_attack",
                 {
                     value="DMGO",
                     labelres="effect_dmgo",
@@ -23,7 +23,7 @@
                 }
             )
             EditorManager.addEditor(
-                "category_misc",
+                "category_attack",
                 {
                     value="PERS",
                     labelres="effect_pers",
