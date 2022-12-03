@@ -2,7 +2,7 @@
 <root version="3.3">
 	<properties>
 		<name>Feature: Effect Builder Plugin - PFRPG2</name>
-		<version>0.1.0</version>
+		<version>0.2.0</version>
 		<author>SoxMax</author>
 		<description>Plugin for the Effect Builder providing Pathfinder 2e effects</description>
 		<loadorder>2</loadorder>
@@ -11,7 +11,7 @@
 		</ruleset>
 	</properties>
 	
-	<announcement text="https://forge.fantasygrounds.com/shop/items/527/view \r Effect Builder Plugin - PFRPG2 Effects v0.1.0 \r Plugin for the Effect Builder providing Pathfinder 2e effects" font="emotefont" />
+	<announcement text="https://forge.fantasygrounds.com/shop/items/527/view \r Effect Builder Plugin - PFRPG2 Effects v0.2.0 \r Plugin for the Effect Builder providing Pathfinder 2e effects" font="emotefont" />
 	
 	<base>
 		<!-- Templates -->
