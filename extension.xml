@@ -14,7 +14,7 @@
 		</ruleset>
 	</properties>
 	
-	<announcement text="https://forge.fantasygrounds.com/shop/items/527/view \r Effect Builder Plugin - PFRPG2 Effects v0.2.1 \r Plugin for the Effect Builder providing Pathfinder 2e effects" font="emotefont" />
+	<announcement text="https://forge.fantasygrounds.com/shop/items/527/view \r Effect Builder Plugin - PFRPG2 Effects v0.2.2 \r Plugin for the Effect Builder providing Pathfinder 2e effects" font="emotefont" />
 	
 	<base>
 		<!-- Templates -->
